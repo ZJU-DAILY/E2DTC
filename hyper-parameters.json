@@ -1,0 +1,12 @@
+{
+ 
+  
+    "cityname":"geolife",
+    "minlon":116.1,
+    "minlat":39.5,
+    "maxlon":116.8,
+    "maxlat":40.3,
+    "cellsize":300.0,
+    "minfreq":50
+ 
+}
